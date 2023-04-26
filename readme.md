@@ -2,7 +2,7 @@
 This is a simple web application that allows users to search for a GitHub user by entering their username. The app then displays some basic information about the user, including their name, username, the date they joined GitHub, the number of repositories they have, and the number of followers and following they have. Additionally, the app displays some social information about the user, including their location, Twitter account, and website.
 
 ## Demo
-You can see a live demo of the app here: 
+You can see a live demo of the app here: https://balaji91221.github.io/GitHub-User-Search-App/
 
 ## Installation
 To run the app locally, follow these steps:
