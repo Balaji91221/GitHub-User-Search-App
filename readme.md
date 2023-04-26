@@ -29,3 +29,7 @@ Submit a pull request to the main repository.
 
 ## Acknowledgements
 This app was built using HTML, CSS, and JavaScript. The app uses the GitHub API to retrieve user information. The app also uses the Google Fonts API to load fonts, and the Favicon Generator to generate the app's favicon.
+
+## Reference 
+
+ui template from https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6
