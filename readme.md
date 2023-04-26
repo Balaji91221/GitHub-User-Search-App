@@ -7,7 +7,7 @@ You can see a live demo of the app here:
 ## Installation
 To run the app locally, follow these steps:
 
-Clone the repository to your local machine using git clone https://github.com/username/repo.git.
+Clone the repository to your local machine using git clone 
 Navigate to the root directory of the project.
 Open the index.html file in your browser.
 Usage
